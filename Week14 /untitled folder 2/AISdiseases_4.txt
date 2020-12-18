@@ -1,0 +1,1 @@
+Allergy,Abscess,HIV,Malaria,GERD,Kuru,Cancer,Epilepsy,Ebola,Mumps
